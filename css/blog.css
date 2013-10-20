@@ -1,0 +1,22 @@
+.bloglist-post{
+	margin: 20px 0;
+}
+.bloglist-post-title{
+	font-size:24px;
+}
+.blog-post-title{
+	font-weight: normal;
+}
+.bloglist-post-meta{
+	font-size: 12px;
+}
+.meta{
+	margin-top: 20px;
+}
+.time,.like,.tweet{
+	float: left;
+	margin-right: 10px;
+}
+.time{
+	margin-right: 20px;
+}

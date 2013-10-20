@@ -2,3 +2,6 @@ name: My Personal Blog
 markdown: redcarpet
 pygments: false
 permalink: /:title
+paginate: 10
+site_base: http://www.arundavid.com
+blog_base: http://blog.arundavid.com

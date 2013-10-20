@@ -1,13 +1,16 @@
 ---
-layout: default
-title: Your New Jekyll Site
+layout: blog
+title: 
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+  <h1 class="page-title">Blog posts</h1>
+  <div class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    	<div class='bloglist-post'>
+      <a class='bloglist-post-title' href="{{ post.url }}">{{ post.title }}</a>
+      <div class='bloglist-post-meta'>{{ post.date | date_to_string }}</div>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>
