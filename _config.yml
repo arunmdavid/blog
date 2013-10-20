@@ -1,0 +1,4 @@
+name: My Personal Blog
+markdown: redcarpet
+pygments: false
+permalink: /:title
