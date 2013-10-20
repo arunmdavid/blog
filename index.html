@@ -1,16 +1,78 @@
 ---
 layout: blog
 title: 
+canonical_url: "http://blog.arundavid.com"
 ---
 
 <div id="home">
   <h1 class="page-title">Blog posts</h1>
   <div class="posts">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     	<div class='bloglist-post'>
-      <a class='bloglist-post-title' href="{{ post.url }}">{{ post.title }}</a>
-      <div class='bloglist-post-meta'>{{ post.date | date_to_string }}</div>
+      	{% if post.external_url %}
+	      <a class='bloglist-post-title' href="{{ post.external_url }}" target='_blank'>{{ post.title }}</a>
+	    {% else %}
+	      <a class='bloglist-post-title' href="{{ post.url }}">{{ post.title }}</a>
+	    {% endif %}
+     	<div class='bloglist-post-meta'>
+     		{{ post.date | date_to_string }}
+     		&nbsp;&nbsp;&nbsp;
+     		{% if post.external_url %}
+     		external blog
+     		{% endif %}
+     	</div>
       </div>
     {% endfor %}
   </div>
+
+  <!-- Pagination links -->
+	<div id="post-pagination" class="pagination">
+		page {{ paginator.page }} of {{ paginator.total_pages }}
+		&nbsp;&nbsp;&nbsp;
+		  {% if paginator.previous_page %}
+		    <span class="previous">
+		      {% if paginator.previous_page == 1 %}
+		        <a href="/">Previous</a>
+		      {% else %}
+		        <a href="{{ paginator.previous_page_path }}">Previous</a>
+		      {% endif %}
+		    </span>
+		  {% else %}
+		    <span class="previous disabled">
+		      <!-- <span>Previous</span> -->
+		    </span>
+		  {% endif %}
+		  <!-- <ul class="pages">
+		    <li class="page">
+		      {% if paginator.page == 1 %}
+		        <span class="current-page">1</span>
+		      {% else %}
+		        <a href="/">1</a>
+		      {% endif %}
+		    </li>
+
+		    {% for count in (2..paginator.total_pages) %}
+		      <li class="page">
+		        {% if count == paginator.page %}
+		          <span class="current-page">{{ count }}</span>
+		        {% else %}
+		          <a href="/page{{ count }}">{{ count }}</a>
+		        {% endif %}
+		      </li>
+		    {% endfor %}
+		  </ul> -->
+		  &nbsp;&nbsp;&nbsp;
+		  {% if paginator.next_page %}
+		    <span class="next">
+		      <a href="{{ paginator.next_page_path }}">Next</a>
+		    </span>
+		  {% else %}
+		    <span class="next disabled">
+		      <!-- <span>Next</span> -->
+		    </span>
+		  {% endif %}
+
+		</div>
+	<!-- Pagination links end -->
+
 </div>
