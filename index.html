@@ -27,8 +27,9 @@ canonical_url: "http://blog.arundavid.com"
 
   <!-- Pagination links -->
 	<div id="post-pagination" class="pagination">
-		page {{ paginator.page }} of {{ paginator.total_pages }}
-		&nbsp;&nbsp;&nbsp;
+		{% if paginator.total_pages > 1 %}
+		page {{ paginator.page }} of {{ paginator.total_pages }} &nbsp;&nbsp;&nbsp;
+		{% endif %}
 		  {% if paginator.previous_page %}
 		    <span class="previous">
 		      {% if paginator.previous_page == 1 %}
