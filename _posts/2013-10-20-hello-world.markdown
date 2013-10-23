@@ -103,5 +103,5 @@ I've joined an IT MNC company, got trained in Java technology and assigned for a
 
 to be continued...
 
-( I think this post is becoming very long. Let me finish off here and write what I've experienced in the upcoming posts. When I've started writing this post, I thought how I was going to fill up the page, and atleast I should write till the scrollbar is visible. But now i've to compress and skip many things to make it to this size. I've installed wordpress, signed up for blog sites before but never posted one. But this Github and Jekyll really impressed me and encouraging to blog. )
+( I think this post is becoming very long. Let me finish off here and write what else I've experienced in the upcoming posts. When I've started writing this post, I thought how I was going to fill up the page, and atleast I should write till the scrollbar becomes visible. But now i've to compress and skip many things to make it to this size. I've installed wordpress, signed up for blog sites before but never posted one. But this Github and Jekyll really impressed me and encouraging to blog. )
 
