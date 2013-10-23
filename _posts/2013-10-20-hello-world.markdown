@@ -65,11 +65,11 @@ The reason I didn't go for internet is that I thought it is just for entertainme
   
 ### The dynamic web
  
-I've somehow understood the concept of web design. At that time one of my classmate bought a digit magazine and gave me the attachment book saying he don't want that. It says "Fastrack to PHP", the dynamic website development.
+I've somehow understood the concept of web design. At that time one of my classmate bought a digit magazine and gave me the attachment book saying he don't want that. It reads "Fastrack to PHP", the dynamic website development.
  
 >"What? Dynamic webpage is one web page will show different content for different users. I thought Orkut, Gmail and all having seperate pages for every user!"
  
-Just took that book to home for semester holidays. There I met my school friend Kathiravan. He said he need to create some website to manage the student's marks for his college and he asked me whether I know how to do it. Then I remembered the book. We opened the book, downloaded XAMPP, started developing the project with basic PHP.
+Just took that book to home for semester holidays. There I met my school friend Kathiravan ( <a href='http://twitter.com/kathiravan_e' target='_blank' >@Kathiravan_E</a> ). He said he need to create some website to manage the student's marks for his college and he asked me whether I know how to do it. Then I remembered the book. We opened the book, downloaded XAMPP, started developing the project with basic PHP.
  
 >"I've worked with files in C, C++. But how can we store such complex data and read it back?. Hey, look! There is something called database in which we can store data in table format and easily read it".
  
@@ -77,7 +77,7 @@ By the time we understood the concept and created a simple login system, the hol
  
 ### The Team
  
-Knowing dynamic web development, I thought why not create a website for interaction with our classmates. Then I've heard another collegemate Mohan Kumar started creating a website for his classmates. Then we thought why not we join and create something.
+Knowing dynamic web development, I thought why not create a website for interaction with our classmates. Then I've heard another collegemate Mohan Kumar ( <a href='http://twitter.com/smartmohi' target='_blank' >@SmartMohi</a> ) started creating a website for his classmates. Then we thought why not we join and create something.
  
 >"Ok, Lets create a small social network for our classmates."
  
@@ -85,7 +85,7 @@ Searching a name for the project with many suggessions, At last we've landed wit
  
 >"What is this? Our website is reloading for every operation, but these websites are doing operations with just a loding image. Googling says it is Javascript & AJAX. WTH! Another language?"
  
-I knew my classmate Ashok Raj is very good with Java. I asked him about JavaScript and he said that he knew Java, but JavaScript is completely different. Facepalm. Asking him to help with the JavaScript part of our website. He learnt JavaScript and joined us and was doing the JavaScript, UX part of our website.
+I knew my classmate Ashok Raj (  <a href='http://twitter.com/ashokraj_l' target='_blank' >@AshokRaj_L</a> ) is very good with Java. I asked him about JavaScript and he said that he knew Java, but JavaScript is completely different. Facepalm. Asking him to help with the JavaScript part of our website. He learnt JavaScript and joined us and was doing the JavaScript, UX part of our website.
  
 We did aroung 5 versions of the project i) Plain PHP, ii) PHP in OOPS, iii) With Javasctipt & AJAX, iv) With jQuery, v) And the final with Codeigniter MVC. We have developed a complete API for the project, did an Android application for the project.
 
