@@ -23,3 +23,12 @@
 .comments{
 	margin-top: 20px;
 }
+blockquote{
+	border-left: 10px solid #EEEEEE;
+    margin: 0;
+    padding: 10px;
+}
+blockquote p{
+	margin: 0;
+	padding: 0;
+}
