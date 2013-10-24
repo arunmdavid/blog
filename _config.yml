@@ -6,3 +6,4 @@ paginate: 10
 paginate_path: "page:num"
 site_base: http://www.arundavid.com
 blog_base: http://blog.arundavid.com
+timezone: Asia/Kolkata
