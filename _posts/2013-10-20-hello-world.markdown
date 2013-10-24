@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World! - My techno-personal life journey..."
+title:  "Hello World! - My path into web development..."
 date:   2013-10-24 00:15:00
 categories: post
 ---
