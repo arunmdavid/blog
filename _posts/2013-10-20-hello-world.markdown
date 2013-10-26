@@ -19,19 +19,19 @@ As my first post, let me tell about myself.
  
 ### School kid
  
-Born and brought up in Lalgudi, a little town near Trichy. As a stiudent, Attended a total of 3 grade schools and my favourite is, Government higher secondary school, Lalgudi. May be the teaching will not be as good as others, but the advantage, there is no home works, no extra classes, no rules. You'll get lots and lots of time to explore whatever you want and I loved that.
+Born and brought up in Lalgudi, a little town near Trichy. As a student, I've attended a total of 3 grade schools and my favorite is, Government higher secondary school, Lalgudi. May be the teaching will not be as good as others, but the advantage, there is no home works, no extra classes, no rules. You'll get lots and lots of time to explore whatever you want and I loved that.
  
 I got my hand in computer for the first time in my 7th grade when computers came to our schools. Yes It was Windows 98 with the black&white monitor. After playing with it for some days, I have decided my desire.
  
 >I will get a degree related to computers and land a career that is something to do with computers.
  
-Deleted my earlier desiers to be a painting artist, a sportsperson etc.. May be because I thought I could be a painter in MS paint, a sportsman in computer games all in one computer.
+Deleted my earlier desires to be a painting artist, a sportsperson etc.. May be because I thought I could be a painter in MS paint, a sportsman in computer games all in one computer.
  
 I've joined some computer courses and started with MS paint, MS word, Pagemaker, Photoshop... Was getting bored with softwares, I've joined for programming courses, They have started with HTML then Visual Basic, C programming. As I've never used internet before, I thought HTML is just one in a many technologies related to computers and concentrated only in C, C++. Then bought a computer in my 10th grade. A pentium 4, 512RAM with Windows XP and started playing with it. But still no internet.
  
 ### Intro to internet
  
-I've joined Karunya University in Coimbatore for my bachelor degree in Computer Science and Engineering. The location and climate was wonderfull. But sadly and strangely, We were not allowed to have our own computers in the first year. In the hostel there will be a computer room for internet access which will open at 06:00AM every day. We used to stand in queue for over an hour to get good computers when it opens. Yes, there will be computers without mouse, keyboard.. and even without internet connection.
+I've joined Karunya University in Coimbatore for my bachelor degree in Computer Science and Engineering. The location and climate was wonderful. But sadly and strangely, We were not allowed to have our own computers in the first year. In the hostel there will be a computer room for internet access which will open at 06:00AM every day. We used to stand in queue for over an hour to get good computers when it opens. Yes, there will be computers without mouse, keyboard.. and even without internet connection.
  
 Every one was talking about some social networking site called Orkut where we can be friends online.
  
@@ -57,7 +57,7 @@ Downloaded a free website template, Its a free website template designed for App
  
 >"But where is the &lt;table&gt;, &lt;tr&gt;'s and &lt;td&gt;'s for the design like i had learnt before. What is this style.css included in this page. Got it! You are the design code".
  
-The theme was so optimized that I felt so somplicated to modify it and learned the needed CSS for designing a website by just modifiying the theme. 
+The theme was so optimized that I felt so complicated to modify it and learned the needed CSS for designing a website by just modifying the theme. 
 
 >"Making a simple 'Hello World' is a far better learning than mining a whole book".
 
@@ -65,9 +65,9 @@ The reason I didn't go for internet is that I thought it is just for entertainme
   
 ### The dynamic web
  
-I've somehow understood the concept of web design. At that time one of my classmate bought a digit magazine and gave me the attachment book saying he don't want that. It reads "Fastrack to PHP", the dynamic website development.
+I've somehow understood the concept of web design. At that time one of my classmate bought a digit magazine and gave me the attachment book saying he don't want that. It reads "Fast Track to PHP", the dynamic website development.
  
->"What? Dynamic webpage is one web page will show different content for different users. I thought Orkut, Gmail and all having seperate pages for every user!"
+>"What? Dynamic webpage is one web page will show different content for different users. I thought Orkut, Gmail and all having separate pages for every user!"
  
 Just took that book to home for semester holidays. There I met my school friend Kathiravan ( <a href='http://twitter.com/kathiravan_e' target='_blank' >@Kathiravan_E</a> ). He said he need to create some website to manage the student's marks for his college and he asked me whether I know how to do it. Then I remembered the book. We opened the book, downloaded XAMPP, started developing the project with basic PHP.
  
@@ -77,17 +77,17 @@ By the time we understood the concept and created a simple login system, the hol
  
 ### The Team
  
-Knowing dynamic web development, I thought why not create a website for interaction with our classmates. Then I've heard another collegemate Mohan Kumar ( <a href='http://twitter.com/smartmohi' target='_blank' >@SmartMohi</a> ) started creating a website for his classmates. Then we thought why not we join and create something.
+Knowing dynamic web development, I thought why not create a website for interaction with our classmates. Then I've heard another college mate Mohan Kumar ( <a href='http://twitter.com/smartmohi' target='_blank' >@SmartMohi</a> ) started creating a website for his classmates. Then we thought why not we join and create something.
  
 >"Ok, Lets create a small social network for our classmates."
  
-Searching a name for the project with many suggessions, At last we've landed with the name Tinywall. With some basic knowledge in HTML, CSS, PHP; somehow we've managed to do a working model of the website.
+Searching a name for the project with many suggestions, At last we've landed with the name Tinywall. With some basic knowledge in HTML, CSS, PHP; somehow we've managed to do a working model of the website.
  
->"What is this? Our website is reloading for every operation, but these websites are doing operations with just a loding image. Googling says it is Javascript & AJAX. WTH! Another language?"
+>"What is this? Our website is reloading for every operation, but these websites are doing operations with just a loading image. Googling says it is Javascript & AJAX. WTH! Another language?"
  
-I knew my classmate Ashok Raj (  <a href='http://twitter.com/ashokraj_l' target='_blank' >@AshokRaj_L</a> ) is very good with Java. I asked him about JavaScript and he said that he knew Java, but JavaScript is completely different. Facepalm. Asking him to help with the JavaScript part of our website. He learnt JavaScript and joined us and was doing the JavaScript, UX part of our website.
+I knew my classmate Ashok Raj (  <a href='http://twitter.com/ashokraj_l' target='_blank' >@AshokRaj_L</a> ) is very good with Java. I asked him about JavaScript and he said that he knew Java, but JavaScript is completely different. Facepalm. Asking him to help with the JavaScript part of our website. He had learnt JavaScript and joined us and was doing the JavaScript, UX part of our website.
  
-We did aroung 5 versions of the project i) Plain PHP, ii) PHP in OOPS, iii) With Javasctipt & AJAX, iv) With jQuery, v) And the final with Codeigniter MVC. We have developed a complete API for the project, did an Android application for the project.
+We did around 5 versions of the project i) Plain PHP, ii) PHP in OOPS, iii) With Javasctipt & AJAX, iv) With jQuery, v) And the final with Codeigniter MVC. We have developed a complete API for the project, did an Android application for the project.
 
 >From designing to development to managing the server to promoting the product online, for whatever we learned in the web, Tinywall was our play ground.
 
@@ -103,5 +103,5 @@ I've joined an IT MNC company, got trained in Java technology and assigned for a
 
 to be continued...
 
-( I think this post is becoming very long. Let me finish off here and write what else I've experienced in the upcoming posts. When I've started writing this post, I thought how I was going to fill up the page, and atleast I should write till the scrollbar becomes visible. But now i've to compress and skip many things to make it to this size. I've installed wordpress, signed up for blog sites before but never posted one. But this Github and Jekyll really impressed me and encouraging to blog. )
+( I think this post is keep on growing as I think of the past. Let me finish off here and write what else I've experienced in the upcoming posts. When I've started writing this post, I thought how I was going to fill up the page, and atleast I should write till the scrollbar becomes visible. But now i've to compress and skip many things to make it to this size. I've installed wordpress, signed up for blog sites before but never posted one. But this Github and Jekyll really impressed me and encouraging to blog. )
 
