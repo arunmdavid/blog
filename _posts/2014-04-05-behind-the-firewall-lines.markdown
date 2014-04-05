@@ -55,7 +55,7 @@ Even the [Google CDN](https://developers.google.com/speed/libraries/devguide) wi
 
 Also I have [Google Chrome](https://www.google.com/intl/en/chrome/browser/), but installing extension is blocked!!. In subsequent firewall rule changes, Google Reader was opened, closed, opened, closed.. then [Google closed it completely](http://www.google.com/reader/about/). Then I've moved to [Digg Reader](http://digg.com/reader), but then as Google CDN blocked, it didn't work anymore as it uses jQuery from there.
 
-Then a new software was put up in all our systems to track when & how long each and every applications were running; A report of how long we were doing development/corporate/personnal works will e generated.
+Then a new software was put up in all our systems to track when & how long each and every applications were running; A report of how long we were doing development/corporate/personnal works will be generated.
 
 > " Longer working hours &ne; Higher productivity ; Isn't it? "
 
