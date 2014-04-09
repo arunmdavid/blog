@@ -2,10 +2,16 @@
 	margin: 20px 0;
 }
 .bloglist-post-title{
-	font-size:24px;
+	font-size:24px;margin-bottom: 0px;
+}
+.bloglist-post-subtitle{
+	margin-top: 0px;font-size: 18px;
 }
 .blog-post-title{
-	font-weight: normal;
+	font-weight: normal;margin-bottom: 0px;
+}
+.blog-post-subtitle{
+	font-weight: normal;margin-top: 0px;
 }
 .bloglist-post-meta{
 	font-size: 12px;

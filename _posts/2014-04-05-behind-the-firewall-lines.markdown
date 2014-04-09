@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Behind the firewall lines - Internet firewalls"
+title:  "Behind the firewall lines"
+subtitle: "My experience with internet firewalls"
 date:   2014-04-05 09:10:00
 categories: post
 ---
