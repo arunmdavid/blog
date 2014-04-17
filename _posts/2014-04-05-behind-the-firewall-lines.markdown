@@ -30,7 +30,7 @@ The firewall they used was not that great, it was blocking some learning sites, 
 
 I don't listen to songs. I'll be more productive when I watch some action movies or crime serials while coding. Yeah, It'll be in a small always-on-top player window. In college days, there was no problem as I had used my own laptop. My brain used to work well on programming logics if a video is playing in a overlay window.
 
-###Even for workplace?, that doesn't make sense.
+###Even for workplace??.. That doesn't make sense.
 
 When I joined an IT firm as a Software Engineer, It was shoking to see a firewall that was put up for the internet access. Students is a stage where we often change our life goals and desired as we get distracted on what we see. But when we joins a job and becomes and employee, We've set our path. There is no use of having a internet firewall to straighten our path. 
 
@@ -52,7 +52,7 @@ In the 2 years of working with the company, approx. 5 or 6 different firewall ru
 
 > " Nah.. It'll be blocked in firewall to download the required tools. Let it be. " 
 
-Even the [Google CDN](https://developers.google.com/speed/libraries/devguide) with 'http' is blocked (only https works), so the websites using [jQuery](http://jquery.com/) from Google CDN won't work. Some [URL shortners](http://en.wikipedia.org/wiki/URL_shortening) are blocked. On top of all, the website category 'Uncategorised' is blocked. Yes, the new websites and the websites for which the firewall couldn't able to categorize all blocked. Every new websites and web tools which i see in Hacker News is blocked. If i see 'Show HN', I know it will be blocked. 
+The website category 'Personal Pages' is blocked and almost many blogs are blocked under this category. The [Google CDN](https://developers.google.com/speed/libraries/devguide) with 'http' is blocked (only https works), so the websites using [jQuery](http://jquery.com/) from Google CDN won't work. Some [URL shortners](http://en.wikipedia.org/wiki/URL_shortening) are blocked but the destination links will be working (I've to use some URL expanders to check that). On top of all, the website category 'Uncategorised' is blocked. Yes, the new websites and the websites for which the firewall couldn't able to categorize all blocked. Every new websites and web tools which i see in Hacker News is blocked. If i see 'Show HN', I know it will be blocked. 
 
 Also I have [Google Chrome](https://www.google.com/intl/en/chrome/browser/), but installing extension is blocked!!. In subsequent firewall rule changes, Google Reader was opened, closed, opened, closed.. then [Google closed it completely](http://www.google.com/reader/about/). Then I've moved to [Digg Reader](http://digg.com/reader), but then as Google CDN blocked, it didn't work anymore as it uses jQuery from there.
 
@@ -110,10 +110,16 @@ and may be more that i don't know of..
 
 ###Conclusion
 
-In my point of view, at least there is some use of placing a firewall in the school or college network, but when it comes to workplace, there is no use of it as everyone has a smartphone and the firewall becomes just another blocking wall for learning.
+In my point of view, at least there is some use of placing a firewall in the school or college network, but when it comes to workplace, there is no use of it as everyone has a smartphone and the firewall becomes just another blocking wall for learning. 
 
-Anyway I've moved out of my previous MNC for our own start-up.
+Yes, I agree that the companies need to secure their data and don't want to have their employees wasting time. At least, 
 
->" Yay! No firewalls now. "
+* Do have a valuable firewall and configure proper blocking rules.
+* Update the firewall for new websites periodically. Its internet world, and everyday loads of new websites are comming.
+* Do deploy an internal [Shoutbox](http://en.wikipedia.org/wiki/Shoutbox) tool and take immediate actions to unblock websites whenever someone points out mistaken blockings. Don't say you have IT Service Management tool. I am sure no one wants to raise a ticket and wait for hours to get the blocked link open. Have a dedicated parson online to unblock websites alone.
+
+Anyway I've moved out of my previous MNC for our own start-up [Tinywall](http://tinywall.com).
+
+>" Yay! Am into Startups.. No firewalls now. "
 
 The productivity becomes much much more without a firewall. 

@@ -14,7 +14,7 @@ canonical_url: "http://blog.arundavid.com"
 	      <a class='bloglist-post-subtitle' href="{{ post.external_url }}" target='_blank'>{{ post.subtitle }}</a>
 	    {% else %}
 	      <a class='bloglist-post-title' href="{{ post.url }}">{{ post.title }}</a><br/>
-	      <a class='bloglist-post-subtitle' href="{{ post.url }}" target='_blank'>{{ post.subtitle }}</a>
+	      <a class='bloglist-post-subtitle' href="{{ post.url }}">{{ post.subtitle }}</a>
 	    {% endif %}
      	<div class='bloglist-post-meta'>
      		{{ post.date | date_to_string }}
