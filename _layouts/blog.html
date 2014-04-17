@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>{% if page.title %}{{ page.title }} | {% endif %}Arun David's Blog</title> 
+        <title>{% if page.title %}{{ page.title }}{% if page.subtitle %} - {{ page.subtitle }}{% endif %} | {% endif %}Arun David's Blog</title> 
         {% if page.canonical_url %}
         <link rel="canonical" href="{{ page.canonical_url }}" />
         {% endif %}
