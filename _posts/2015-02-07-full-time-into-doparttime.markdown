@@ -51,10 +51,10 @@ Tinywall is the name of <a href="https://github.com/tinywall/social" target='_bl
 
 ###Prototyping &amp; Incubation
 
-Then, we got to know about the TiECON PitchFest, a business idea event where the participants will be pitching their business ideas to the investors and incubators.
-Having just the idea without any product or even prototype, we called our friends and geared up for building a prototype in 3 weeks and some how suceeded too.. 
+Then, we got to know about the TiECON PitchFest, a business idea event where the participants will be pitching their business to the investors and incubators for funding.
+Having just the idea without any product or even prototype, we called our friends and geared up for building a prototype in just 3 weeks for the event and some how made it ready. 
 
-Our friends Ashok, Isaac, Ramakrishnan, Kathir, Melwyn, Ram and many others great effort &amp; help made the prototype possible in a short span of time. We had named the product name as 'Jobbied' which was renamed later after realizing that no one likes and knows the spelling for the word.
+Our friends Ashok, Isaac, Ramakrishnan, Kathir, Melwyn, Ram and many others great effort &amp; help made the prototype possible in a short span of time. We had named the product name as 'Jobbied' which was renamed later.
 
 With the prototype and a business plan PPT, we went to the prelims in Coimbatore and presented it. After a week of the prelims, we got a mail that we had been selected for PitchFest finals. After developing the prototype further more, making a mobile app and improving the pitch desk PPT with a sleepless night the day before, We went for the finals to present to the investors. 
 
@@ -72,7 +72,7 @@ One of the panel in the PitchFest, An incubation center was happy with our idea,
 
 We had submitted resignation from our respective employers and was serving notice period eagerly waiting to start our venture. The last working day came, and in fact, I directly went to the incubation center in the evening itself after farewell as both the offices are located back to back.
 
-As we had planed, we knew, I'll be taking care of technology, and Mohan will take care of operations. But, what to develop? what to execute? How to make money? We just had the idea, 'A website for part time job' and a broken, non production ready prototype. Also 'Jobbied' will not be the product name as it has no clarity.
+As we had planed, we knew, I'll be taking care of technology, and Mohan will take care of operations. But, what to develop? what to execute? How to make money? We just had the idea, 'A website for part time job' and a broken, non production ready prototype. Also 'Jobbied' will not be the product name as realizing that no one likes and knows the spelling for the word.
 
 > " OMG, we don't even have a website and also can't put this buggy prototype in live. "
 
