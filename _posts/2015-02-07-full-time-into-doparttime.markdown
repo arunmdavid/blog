@@ -10,7 +10,7 @@ categories: post
 
 ###Warm up
 
-In the college days, We(<a href="https://twitter.com/ArnDvd" target='_blank'>me</a>, <a href="https://twitter.com/smartmohi/" target='_blank'>Mohan</a>, <a href="https://twitter.com/ashkrj" target='_blank'>Ashok</a>) get some outsourced project(no aggrement), develop it (no process), deliver it(no SLA) &amp; get the money(no bill). We did not know much(anything) about business, start-up, sales, marketing or about getting money from strangers to do business(funding). We couldn't start up then as we didn't have much exposure into business. So we had decided to join hands after some time.
+In the college days, We(<a href="https://twitter.com/ArnDvd" target='_blank'>me</a>, <a href="https://twitter.com/smartmohi/" target='_blank'>Mohan</a>, <a href="https://twitter.com/ashkrj" target='_blank'>Ashok</a>) get some outsourced project(no agreement), develop it (no process), deliver it(no SLA) &amp; get the money(no bill). We did not know much(anything) about business, start-up, sales, marketing or about getting money from strangers to do business(funding). We couldn't start up then as we didn't have much exposure into business. So we had decided to join hands after some time.
 
 > " Ok, Let's get employed some where, learn about business, and do something after 2 years. "
 
@@ -36,11 +36,11 @@ First, I was taking down such ideas in note paper, then SMS draft, then mobile n
 
 > Me:" Hmmm... Looks great, Let's try. "
 
-Yes, we knew hiring/recruitment is not just a technology business, but needs a lots of ground work as well. Ok, why not try it. After some discussions, we've finalized, this is what we are going to do. We had a plan of starting up in Banglore, as it has a perfect eco system, and visibility for start-ups.
+Yes, we knew hiring/recruitment is not just a technology business, but needs a lots of ground work as well. Ok, why not try it. After some discussions, we've finalized, this is what we are going to do. We had a plan of starting up in Bangalore, as it has a perfect ecosystem, and visibility for startups.
 
-> " It's official, we are starting a bussiness. "
+> " It's official, we are starting a business. "
 
-> " Comany name? "
+> " Company name? "
 
 > " Let's keep it as Tinywall Technologies "
 
@@ -58,7 +58,7 @@ Our friends Ashok, Isaac, Ramakrishnan, Kathir, Melwyn, Ram and many others grea
 
 With the prototype and a business plan PPT, we went to the prelims in Coimbatore and presented it. After a week of the prelims, we got a mail that we had been selected for PitchFest finals. After developing the prototype further more, making a mobile app and improving the pitch desk PPT with a sleepless night the day before, We went for the finals to present to the investors. 
 
-We had talked with around 8 inverstors, and nobody, wanted to see the pitch PPT or the prototype. They just wanted us to talk the idea and explain how we were going to execute it and answer their questions. 
+We had talked with around 8 investors, and nobody, wanted to see the pitch PPT or the prototype. They just wanted us to talk the idea and explain how we were going to execute it and answer their questions. 
 
 > " Investors less care about the idea or the product, but the strength of the team to execute the business is very important for them. "
 
@@ -84,7 +84,7 @@ We saw some inspirations, designed a static one page website, published in our w
 
 > " Hey All, How is our new company website? "
 
-> " Guys, I don't want to say this, but your website looks crap. Not at all professinal. ", that's one feedback.
+> " Guys, I don't want to say this, but your website looks crap. Not at all professional. ", that's one feedback.
 
 After some design changes, we did a simple clean design and put up the website in <a href="http://www.tinywall.com/">www.tinywall.com</a> and to get registrations, we had used google forms for <a href="https://docs.google.com/forms/d/1G31dBWQDz8XeLffQFoxRLn32UUU-YNonHYcrjKCVWgQ/viewform?embedded=true">job seeker</a> &amp; <a href="https://docs.google.com/forms/d/15VxFJwDHAlvvxEQG36Th11WCeW7T74ezNOP2kPfCb3k/viewform?embedded=true">employer registration</a>.
 
@@ -103,7 +103,7 @@ After setting up some tools like HRM, CRM, company email id, business listing in
 > echo 'hello world';
 
 
-Then we named our product <a href="http://www.doparttime.com" target='_blank'>DoPartTime</a>, set up a great team of interns, developed the product, did marketing, did sales.. The learnings here is much much more higher than being a student or employee. I'll be writing all the experiences and learnings in the upcoming posts.
+Then we named our product <a href="http://www.doparttime.com" target='_blank'>DoPartTime</a>, set up a great team of interns, developed the product, did marketing, did sales.. The learning here is much much more higher than being a student or employee. I'll be writing some of the experiences and learning in the upcoming posts.
 
 The adventure continues... 
 
