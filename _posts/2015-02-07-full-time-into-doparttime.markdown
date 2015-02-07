@@ -44,7 +44,7 @@ Yes, we knew hiring/recruitment is not just a technology business, but needs a l
 
 > " Let's keep it as Tinywall Technologies "
 
-> " <b>Tinywall</b>: கழுதை கெட்டா <b>குட்டிச்சுவரு</b> "
+> <b>Tinywall</b>: The small wall where friends hangout for chat, as in 'கழுதை கெட்டா <b>குட்டிச்சுவரு</b>' :)
 
 Tinywall is the name of <a href="https://github.com/tinywall/social" target='_blank'>the social networking website</a> we had developed during our college days.
 
