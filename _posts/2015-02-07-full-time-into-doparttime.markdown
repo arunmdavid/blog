@@ -16,7 +16,7 @@ In the college days, We(<a href="https://twitter.com/ArnDvd" target='_blank'>me<
 
 After the great college days of <a href='http://blog.arundavid.com/hello-world' target='_blank'>learning to build the web</a>, and somehow <a href='http://blog.arundavid.com/behind-the-firewall-lines' target='_blank'>trapped in a access restricted system with firewalled internet</a>; reading the startup stories in <a href='http://yourstory.com/' target='_blank'>YourStory</a>, <a href='http://www.nextbigwhat.com/' target='_blank'>NextBigWhat</a>, <a href="http://pn.ispirt.in/">ProductNation</a> and seeing cool new products at <a href="https://news.ycombinator.com/" target='_blank'>Hacker News</a>, <a href="http://www.reddit.com/r/startups" target='_blank'>Reddit Startup</a> showed me a whole different kind of life, a startup life, and inspired me to do something different.
 
-We've felt its time to try the adventurous start-up journey. To build a product, do sales, do marketing, make new customers, make money, to do an actual business..
+We've felt it's time to try the adventurous start-up journey. To build a product, do sales, do marketing, make new customers, make money, to do an actual business..
 
 ###The IDEA
 
@@ -24,7 +24,7 @@ From the college days, I have a habit of listing down every problem I face that 
 
 > " You can't just sit up and think for ideas to start up a business. "
 
-> " You face a 'PROBLEM', and you solve for yourself, its a 'SOLUTION'; you solve for others, its a 'BUSINESS' "
+> " You face a 'PROBLEM', and you solve for yourself, it's a 'SOLUTION'; you solve for others, it's a 'BUSINESS' "
 
 First, I was taking down such ideas in note paper, then SMS draft, then mobile notes, then evernote, finally google keep; Just the mode of saving changes, but not the habit of saving it. Still the first notes in my google keep titles 'Ideas' with over 50 items.( Most are silly ones, but still problem without solution )
 
