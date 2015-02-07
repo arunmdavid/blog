@@ -14,7 +14,7 @@ In the college days, We(<a href="https://twitter.com/ArnDvd" target='_blank'>me<
 
 > " Ok, Let's get employed some where, learn about business, and do something after 2 years. "
 
-After the great college days of <a href='http://blog.arundavid.com/hello-world' target='_blank'>learning to build the web</a>, and somehow <a href='http://blog.arundavid.com/behind-the-firewall-lines' target='_blank'>trapped in a access restricted system with firewalled internet</a>; reading the startup stories in <a href='http://yourstory.com/' target='_blank'>YourStory</a>, <a href='http://www.nextbigwhat.com/' target='_blank'>NextBigWhat</a>, <a href="http://pn.ispirt.in/">ProductNation</a> and seeing cool new products at <a href="https://news.ycombinator.com/" target='_blank'>Hacker News</a>, <a href="http://www.reddit.com/r/startups" target='_blank'>Reddit Startup</a> showed me a whole different kind of life, a startup life, and inspired me to do something different.
+After the great college days of <a href='http://blog.arundavid.com/hello-world' target='_blank'>learning to build the web</a>, and somehow <a href='http://blog.arundavid.com/behind-the-firewall-lines' target='_blank'>trapped in a access restricted system with firewalled internet</a>; reading the startup stories in <a href='http://yourstory.com/' target='_blank'>YourStory</a>, <a href='http://www.nextbigwhat.com/' target='_blank'>NextBigWhat</a>, <a href="http://pn.ispirt.in/" target='_blank'>ProductNation</a> and seeing cool new products at <a href="https://news.ycombinator.com/" target='_blank'>Hacker News</a>, <a href="http://www.reddit.com/r/startups" target='_blank'>Reddit Startup</a> showed me a whole different kind of life, a startup life, and inspired me to do something different.
 
 We've felt it's time to try the adventurous start-up journey. To build a product, do sales, do marketing, make new customers, make money, to do an actual business..
 
@@ -86,7 +86,7 @@ We saw some inspirations, designed a static one page website, published in our w
 
 > " Guys, I don't want to say this, but your website looks crap. Not at all professional. ", that's one feedback.
 
-After some design changes, we did a simple clean design and put up the website in <a href="http://www.tinywall.com/">www.tinywall.com</a> and to get registrations, we had used google forms for <a href="https://docs.google.com/forms/d/1G31dBWQDz8XeLffQFoxRLn32UUU-YNonHYcrjKCVWgQ/viewform?embedded=true">job seeker</a> &amp; <a href="https://docs.google.com/forms/d/15VxFJwDHAlvvxEQG36Th11WCeW7T74ezNOP2kPfCb3k/viewform?embedded=true">employer registration</a>.
+After some design changes, we did a simple clean design and put up the website in <a href="http://www.tinywall.com/" target='_blank'>www.tinywall.com</a> and to get registrations, we had used google forms for <a href="https://docs.google.com/forms/d/1G31dBWQDz8XeLffQFoxRLn32UUU-YNonHYcrjKCVWgQ/viewform?embedded=true" target='_blank'>job seeker</a> &amp; <a href="https://docs.google.com/forms/d/15VxFJwDHAlvvxEQG36Th11WCeW7T74ezNOP2kPfCb3k/viewform?embedded=true" target='_blank'>employer registration</a>.
 
 > Lession 1: 
 
