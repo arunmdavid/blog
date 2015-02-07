@@ -10,7 +10,7 @@ categories: post
 
 ###Warm up
 
-In the college days, We(<a href="https://twitter.com/ArnDvd" target='_blank'>me</a>, <a href="https://twitter.com/smartmohi/" target='_blank'>Mohan</a>, <a href="https://twitter.com/ashkrj" target='_blank'>Ashok</a>) get some outsourced project(no agreement), develop it (no process), deliver it(no SLA) &amp; get the money(no bill). We did not know much(anything) about business, start-up, sales, marketing or about getting money from strangers to do business(funding). We couldn't start up then as we didn't have much exposure into business. So we had decided to join hands after some time.
+In the college days, We(<a href="https://twitter.com/ArnDvd" target='_blank'>me</a>, <a href="https://twitter.com/smartmohi/" target='_blank'>Mohan</a>, <a href="https://twitter.com/ashkrj" target='_blank'>Ashok</a>) get some freelance/outsourced project(no agreement), develop it (no process), deliver it(no SLA) &amp; get the money(no bill). We did not know much(anything) about business, start-up, sales, marketing or about getting money from strangers to do business(funding). We couldn't start up then as we didn't have much exposure into business. So we had decided to join hands after some time.
 
 > " Ok, Let's get employed some where, learn about business, and do something after 2 years. "
 
